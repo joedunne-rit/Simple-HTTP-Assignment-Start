@@ -2,7 +2,7 @@
   "name": "simple-http-assignment-start",
   "version": "1.0.0",
   "description": "(week-2-assignment-for-IGME430)",
-  "main": "index.js",
+  "main": "/src/server.js",
   "scripts": {
     "test": "echo \"Tests complete\"",
     "start": "node ./src/server.js",
